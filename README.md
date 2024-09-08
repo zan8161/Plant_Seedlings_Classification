@@ -5,7 +5,7 @@
 ```
 pip install -r requirements.txt
 ```
-### **Step 1.** run main.py
+### **Step 2.** run main.py
 ```
 python main.py
 ```
