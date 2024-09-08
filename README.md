@@ -4,7 +4,7 @@
 ### 1.1 Program Execution
 #### **Step 1.** Install requirements.txt
 ```
-pip install -r requirements.txt
+conda install -r requirements.txt
 ```
 #### **Step 2.** run main.py
 ```
