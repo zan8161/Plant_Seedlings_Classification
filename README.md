@@ -19,9 +19,9 @@ python main.py
 #### Some configs : training_epoch = 25, The ratio between training dataset and validation dataset -> 4:1
 
 ## 2. Experimental results
-### Loss Curve
+### 2.1 Loss Curve
 ![image](https://github.com/zan8161/Plant_Seedlings_Classification/blob/main/result/loss.png)
-### Confusion Matrix
+### 2.2 Confusion Matrix
 ![image](https://github.com/zan8161/Plant_Seedlings_Classification/blob/main/result/confusion_matrix.png)
-### Kaggle Submission Score
+### 2.3 Kaggle Score
 ![image](https://github.com/zan8161/Plant_Seedlings_Classification/blob/main/result/kaggle_score.png)
