@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
-### 1.2 Project Enviroment
+### 1.2 Project Environment
 #### Python version : 3.10.14
 #### Cuda version : 11.6
 #### Issue : Multiclass classification (Images)
